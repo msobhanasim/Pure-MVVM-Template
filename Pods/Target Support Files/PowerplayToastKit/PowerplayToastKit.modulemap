@@ -1,0 +1,6 @@
+framework module PowerplayToastKit {
+  umbrella header "PowerplayToastKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

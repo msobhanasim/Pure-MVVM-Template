@@ -1,0 +1,6 @@
+framework module NISdk {
+  umbrella header "NISdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
